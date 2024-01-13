@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VeronikaKlasa
 - 👀 I’m interested in cartography 
-- 🌱 I’m currently learning R, htmh, Javascript
+- 🌱 I’m currently learning R, HTML, Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : klasa.veronika@gmail.com
 
